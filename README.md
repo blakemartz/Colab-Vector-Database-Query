@@ -36,6 +36,6 @@ It will take several minutes to download dependencies, process your files, and e
 
 Once all cells have completed, you can scroll to the bottom of the notebook and enter your question in the 'question' variable in the final cell. Run the cell to query the documents.
 
+<a href="https://colab.research.google.com/github/blakemartz/Colab-Vector-Database-Query/blob/main/Colab_Vector_Database_Query.ipynb\"><img src='https://colab.research.google.com/assets/colab-badge.svg\'>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg\)](https://colab.research.google.com/github/blakemartz/Colab-Vector-Database-Query/blob/main/Colab_Vector_Database_Query.ipynb\)
-
+LangChain LLaMa 2 implementation by Murtuza Kazmi.
