@@ -16,12 +16,16 @@ You need to generate an access token to allow downloading the model from Hugging
 
 Upload the PDFs you wish to query into a folder on your Google Drive. Update the PDF_directory variable below to the path of that folder.
 
-###  codeblock
+---
+
+```
 model_id = 'meta-llama/Llama-2-7b-chat-hf'
 
 hf_auth = 'your_token_here'
 
 pdf_directory = "/content/drive/MyDrive/your_directory_path"
+```
+
 
 
 ## Run the notebook
