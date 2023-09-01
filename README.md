@@ -21,8 +21,10 @@ Upload the PDFs you wish to query into a folder on your Google Drive. Update the
 ```
 model_id = 'meta-llama/Llama-2-7b-chat-hf'
 
+#Enter your hugging face auth token
 hf_auth = 'your_token_here'
 
+#Enter the path to your directory of PDFs
 pdf_directory = "/content/drive/MyDrive/your_directory_path"
 ```
 
