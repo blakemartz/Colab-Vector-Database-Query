@@ -1,6 +1,6 @@
 # Colab-Vector-Database-Query
 Question Answering a directory of PDFs in Google Colab using LLaMa 2, FAISS, and LangChain
-### <a href="https://colab.research.google.com/github/blakemartz/Colab-Vector-Database-Query/blob/main/Colab_Vector_Database_Query.ipynb\">Click here for colab notebook</a>
+### <a href="https://colab.research.google.com/drive/1HhDQGoptOH0CrL7MnJAXcuGWVKzx03IG?usp=sharing">Click here for colab notebook</a>
 ## Getting Started
 
 You can use the open source Llama-2-7b-chat model in both Hugging Face transformers and LangChain. However, you have to first request access to Llama 2 models via Meta website and also accept to share your account details with Meta on Hugging Face website. It typically takes a few minutes or hours to get the access.
@@ -40,6 +40,6 @@ It will take several minutes to download dependencies, process your files, and e
 
 Once all cells have completed, you can scroll to the bottom of the notebook and enter your question in the 'question' variable in the final cell. Run the cell to query the documents.
 
-## <a href="https://colab.research.google.com/github/blakemartz/Colab-Vector-Database-Query/blob/main/Colab_Vector_Database_Query.ipynb\">Colab Notebook</a>
+## <a href="https://colab.research.google.com/drive/1HhDQGoptOH0CrL7MnJAXcuGWVKzx03IG?usp=sharing">Colab Notebook</a>
 
 LangChain LLaMa 2 implementation by <a href="https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476">Murtuza Kazmi</a>.
