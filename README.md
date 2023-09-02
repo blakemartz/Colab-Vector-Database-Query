@@ -44,4 +44,4 @@ Once all cells have completed, you can scroll to the bottom of the notebook and 
 
 ## <a href="https://colab.research.google.com/drive/1HhDQGoptOH0CrL7MnJAXcuGWVKzx03IG?usp=sharing">Click here for Colab notebook</a>
 
-LangChain LLaMa 2 implementation by <a href="https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476">Murtuza Kazmi</a>.
+Based on implementation by <a href="https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476">Murtuza Kazmi</a>.
