@@ -32,7 +32,7 @@ pdf_directory = "/content/drive/MyDrive/your_directory_path"
 
 ## Run the notebook
 
-In your Google Colab notebook, go to Runtime > Change runtime type > Hardware accelerator > GPU > GPU type > T4. You will need ~8GB of GPU RAM for inference and running on CPU is practically impossible.
+In your Google Colab notebook, go to Runtime > Change runtime type > Hardware accelerator > GPU > GPU type > T4. You need at least 8GB of GPU RAM for inference.
 
 Go to Runtime > Run all
 
